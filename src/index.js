@@ -11,6 +11,7 @@ import Counter from './components/counter'
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <Counter/>
     <Counters/>
   </React.StrictMode>,
   document.getElementById('root')
